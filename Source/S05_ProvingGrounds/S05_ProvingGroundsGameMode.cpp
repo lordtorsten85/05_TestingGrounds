@@ -2,7 +2,7 @@
 
 #include "S05_ProvingGroundsGameMode.h"
 #include "S05_ProvingGroundsHUD.h"
-#include "S05_ProvingGroundsCharacter.h"
+#include "Player/FirstPersonCharacter.h"
 #include "UObject/ConstructorHelpers.h"
 
 AS05_ProvingGroundsGameMode::AS05_ProvingGroundsGameMode()
